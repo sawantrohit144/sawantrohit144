@@ -1,4 +1,4 @@
-![logo](https://github.com/sawantrohit144/Rohit-Sawant/blob/main/Banner.png)
+![logo](https://github.com/sawantrohit144/sawantrohit144/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Rohit Sawant</h1>
 <h3 align="center">A passionate java, frontend and backend developer from India</h3>
 
