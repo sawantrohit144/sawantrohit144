@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Sawant</h1>
 <h3 align="center">A passionate java, frontend and backend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fjusta5things-coding-code-gif-26016964&psig=AOvVaw1nEp5h1v12zXkCmfqEkysj&ust=1672300678067000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCCzIXsm_wCFQAAAAAdAAAAABAM">
+<img align="right" alt="Coding" width="400" src="https://github.com/sawantrohit144/sawantrohit144/blob/main/Coding%20Gif.mp4">
 
 - 🔭 I’m currently studying **BE Final Year**
 
