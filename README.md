@@ -1,18 +1,16 @@
 ![logo](https://github.com/sawantrohit144/sawantrohit144/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Rohit Sawant</h1>
-<h3 align="center">A passionate java, frontend and backend developer from India</h3>
+<h3 align="center">A passionate java, frontend and backend developer</h3>
 
 <img align="right" alt="Coding" width="500" src="https://github.com/sawantrohit144/sawantrohit144/blob/main/Gif.gif">
 
-- 🔭 I’m currently studying **BE Final Year**
+- 🔭 I’m currently working as a **Web Developer**
 
-- 🌱 I’m currently learning **Computer Engineering**
-
-- 👯 I’m currently working on project **Counterfeit Drug**
+- 🌱 I’m currently learning and exploring new **Programming Languages**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 📫 How to reach me **sawantrohit144@gmail.com**
+- 📫 How to reach me **rohitsawant29012021@gmail.com**
 
 <br>
 <br>
