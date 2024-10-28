@@ -6,10 +6,6 @@
 
 - 🔭 I’m currently working as a **Web Developer**
 
-- 🌱 I’m currently learning and exploring new **Programming Languages**
-
-- 👨‍💻 All of my projects are available at [Github](Github)
-
 - 📫 How to reach me **rohitsawant29012021@gmail.com**
 
 <br>
